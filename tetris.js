@@ -211,13 +211,13 @@ function update(time = 0) {
 
 const colors = [
   null,
-  'purple',
-  'yellow',
-  'orange',
-  'blue',
-  'aqua',
-  'green',
-  'red'
+  '#f6e58d',
+  '#7ed6df',
+  '#ffbe76',
+  '#e056fd',
+  '#ff7979',
+  '#686de0',
+  '#badc58'
 ];
 
 const arena = createMatrix(12, 20);
